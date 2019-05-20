@@ -10,7 +10,7 @@ const infoFood = [
     {id: 'eight', image: './images/manzanasLocas.jpg', title: 'Crazy apples', description: 'Apples + carrots + cucumbers + jicamas && the crazy ingredient'},
     {id: 'nine', image: './images/dorilocos.jpg', title: 'Dorilocos', description: 'Doritos, yes Doritos :o + carrots + cucumbers + jicamas && the crazy ingredient'},
     {id: 'ten', image: './images/cucumber-cups.jpg', title: 'Crazy cucumber cups', description: 'Stuffed cucumber + carrots + jicamas + peanuts && the crazy ingredient'},
-    {id: 'eleven', image: './images/Mangonada.jpg', title: 'Mangonada', description: 'Crushed ice + mango + the crazy ingredient'}
+    {id: 'eleven', image: './images/mangonada.jpg', title: 'Mangonada', description: 'Crushed ice + mango + the crazy ingredient'}
 ]
 
 const printingCards = (element) => {
