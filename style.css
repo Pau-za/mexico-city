@@ -1,0 +1,27 @@
+*{
+    font-family: 'Ubuntu', sans-serif;
+
+}
+#food{
+    background: #ffa726;
+    display: grid;
+    grid-template-columns: repeat( auto-fit, minmax(600px, 1fr) );
+    justify-items: center;
+    align-items: center;
+}
+
+.card{
+    width: 80%;
+    margin: 10%;
+}
+
+#info{
+    text-align: center;
+    margin: 10%;
+}
+
+p{
+    font-size: 20px;
+    text-align: justify;
+
+}
